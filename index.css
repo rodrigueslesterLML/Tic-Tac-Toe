@@ -89,30 +89,7 @@ svg {
     text-align: center;
   }
 }
-.navbar {
-  position: fixed;
-  display: inline-block;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 9999;
-  height: 60px;
-  width: 100%;
-  background: #bbb;
-  padding: 10px 20px;
-  float: none;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  float: right;
-  margin: 0px 10px;
-}
 
 
-/* End of Navbar CSS */
+
 
